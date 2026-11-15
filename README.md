@@ -54,8 +54,7 @@
 | 12 | Cambiar orientación | La app sigue funcionando y conserva datos. | Correcto | ✅ |
 
 ## 8. Enlace al chat de IA usado durante el desarrollo
-[Pega aquí el enlace a la conversación de esta IA o indica que se ha usado esta herramienta]
-
+https://chat.deepseek.com/share/b1e6a60qmpc750bkff
 ## 9. Incidencias conocidas o funcionalidades no completadas
 - Ninguna incidencia bloqueante. Todas las funcionalidades requeridas han sido implementadas y probadas con éxito en ambos emuladores.
 
