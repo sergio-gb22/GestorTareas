@@ -55,22 +55,20 @@
 
 ## 8. Enlace al chat de IA usado durante el desarrollo
 https://chat.deepseek.com/share/b1e6a60qmpc750bkff
+
 ## 9. Incidencias conocidas o funcionalidades no completadas
 - Ninguna incidencia bloqueante. Todas las funcionalidades requeridas han sido implementadas y probadas con éxito en ambos emuladores.
 
 ## 10. Capturas de pantalla
 
 **Listado principal:**
-<img width="421" height="941" alt="Captura" src="Capturas/Lista Tareas.png" />
+<img width="421" height="941" alt="Listado principal" src="Capturas/Lista Tareas.png" />
 
 **Formulario de creación con validación:**
-<img width="421" height="941" alt="Capturas/Creacion tareas.png" />
-
+<img width="421" height="941" alt="Formulario de creación" src="Capturas/Creacion tareas.png" />
 
 **Consulta a la API:**
-<img width="421" height="941" alt="Captura" src="Capturas/API.png" />
+<img width="421" height="941" alt="Consulta a la API" src="Capturas/API.png" />
 
-
-**Interacción relevante (Diálogo de borrado o Compartir):**
-<img width="421" height="941" alt="Captura" src="Capturas/Borrar.png" />
-
+**Interacción relevante (Diálogo de borrado):**
+<img width="421" height="941" alt="Diálogo de borrado" src="Capturas/Borrar.png" />
