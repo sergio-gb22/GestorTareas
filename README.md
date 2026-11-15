@@ -59,10 +59,9 @@ https://chat.deepseek.com/share/b1e6a60qmpc750bkff
 - Ninguna incidencia bloqueante. Todas las funcionalidades requeridas han sido implementadas y probadas con éxito en ambos emuladores.
 
 ## 10. Capturas de pantalla
-*(Nota: Haz las fotos en el emulador, guárdalas en una carpeta llamada `capturas` en el proyecto y cambia los nombres de los archivos si es necesario).*
 
 **Listado principal:**
-![Listado de tareas](capturas/lista.png)
+![Listado de tareas](Capturas/Lista Tareas.png)
 
 **Formulario de creación con validación:**
 ![Formulario](capturas/formulario.png)
