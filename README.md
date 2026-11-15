@@ -61,13 +61,20 @@ https://chat.deepseek.com/share/b1e6a60qmpc750bkff
 ## 10. Capturas de pantalla
 
 **Listado principal:**
-![Listado de tareas](Capturas/Lista Tareas.png)
+![Listado de tareas]
+<img width="802" height="900" alt="Captura" src="Capturas/Lista Tareas.png" />
 
 **Formulario de creación con validación:**
-![Formulario](capturas/formulario.png)
+![Formulario]
+<img width="802" height="900" alt="Capturas/Creacion tareas.png" />
+
 
 **Consulta a la API:**
-![API](capturas/api.png)
+![API]
+<img width="802" height="900" alt="Captura" src="Capturas/API.png" />
+
 
 **Interacción relevante (Diálogo de borrado o Compartir):**
-![Dialogo de borrado](capturas/dialogo.png)
+![Dialogo de borrado]
+<img width="802" height="900" alt="Captura" src="Capturas/Borrar.png" />
+
